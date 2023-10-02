@@ -1,0 +1,6 @@
+[book]
+authors = ["Michael Snoyman"]
+language = "zh-cn"
+multilingual = false
+src = "src"
+title = "用 Haskell 和 Yesod 设计网络应用"
