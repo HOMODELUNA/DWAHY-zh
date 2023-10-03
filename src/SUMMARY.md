@@ -12,3 +12,8 @@
 	- [模块化](ch1/3-modularity.md)
 	- [坚实基础](ch1/4-solid-foundation.md)
 - [Haskell](ch2/0.md)
+	- [术语](ch2/1-terminology.md) 
+	- [工具](ch2/2-tools.md)
+	- [编译标识(Language Pragmas)](ch2/3-language-pragmas.md)
+	- [重载字符串(Overloaded Strings)](ch2/4-overloaded-strings.md)
+	- [类型族(Type Families)](ch2/5-type-families.md)
