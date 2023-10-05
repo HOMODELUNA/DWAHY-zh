@@ -25,7 +25,7 @@ _类型构造器(Type Constructor)_ : 在我们的例子中，`Person`、`Make`�
 
 
 
-_类型变量(Type Variable)_ : 考虑数据类型`data Maybe a =Some a | Nothing`。在本例中，`a`是类型变量。
+_类型变量(Type Variable)_ : 考虑数据类型`data Maybe a = Some a | Nothing`。在本例中，`a`是类型变量。
 
 
 
