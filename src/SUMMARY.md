@@ -32,3 +32,8 @@
 	- [框架网站](ch3/8-the-scaffolded-site.md)
 	- [开发服务器](ch3/9-development-server.md)
 	- [总结](ch3/10-summary.md)
+- [Shakespeare模板家族](ch4/0.md)
+	- [摘要](ch4/1-synopsis.md)
+	- [类型](ch4/2-types.md)
+		- [类型安全URL](ch4/2.1-typesafe-urls.md)
+	- [语法](ch4/3-syntax.md)
